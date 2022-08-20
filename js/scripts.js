@@ -50,7 +50,7 @@ form.onsubmit = (event) => {
     }else if(result >= 25 & result <= 29.9 ){
         const message = ` Seu IMC é de ${result}
                           Classificação é: 
-                          ( SOBREPESO )`
+                          ( ACIMA DO PESO )`
 
     Modal.message.innerText = message
     Modal.open()
