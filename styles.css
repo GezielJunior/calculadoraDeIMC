@@ -31,7 +31,7 @@
 
 body{
 
-    background-image: url(/assets/IMC.jpg);
+    background-image: url('./assets/IMC.jpg');
     background-repeat: no-repeat;
     background-size: cover;
 
